@@ -1,0 +1,19 @@
+.container {
+    margin: 0 auto;
+    max-width: 750px;
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.title {
+    color: #000000;
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+.content {
+    flex-grow: 1;
+}
