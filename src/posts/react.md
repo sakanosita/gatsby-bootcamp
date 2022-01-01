@@ -7,4 +7,3 @@ In this post you'll learn React.
 
 ## React
 
-![Grass](./grass.jpeg)
